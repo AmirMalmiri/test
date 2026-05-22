@@ -8,7 +8,7 @@ on:
         required: true
         type: string
       password:
-        description: '🔒 رمز ( اختیاری برای محافظت )'
+        description: 'رمز'
         required: false
         default: ''
         type: string
