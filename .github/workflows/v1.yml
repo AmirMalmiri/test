@@ -15,7 +15,7 @@ on:
       safe_mode:
         required: false
         type: string
-        default: 'true'
+        default: 'false'
       chunk_size:
         required: false
         type: string
